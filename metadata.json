@@ -1,0 +1,6 @@
+{
+  "name": "AI Chart Signal Extractor",
+  "description": "Upload a trading chart screenshot to automatically extract key levels, analyze market regime, choose trading strategies, and visualize positions dynamically with real-time risk calculations. Features 'The Chart MasterClass' elite trading academy landing page.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
